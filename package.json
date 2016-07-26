@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/powerbuoy/DontScroll/issues"
   },
-  "homepage": "https://github.com/powerbuoy/DontScroll#readme"
+  "homepage": "https://github.com/powerbuoy/DontScroll#readme",
+  "dependencies": {
+    "jquery": "^3.1.0"
+  }
 }
