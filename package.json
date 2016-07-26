@@ -1,0 +1,19 @@
+{
+  "name": "dont-scroll",
+  "version": "1.0.0",
+  "description": "Prevents an in page link from scrolling the page but still updates the hash",
+  "main": "dont-scroll.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/powerbuoy/DontScroll.git"
+  },
+  "author": "Andreas Lagerkvist",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/powerbuoy/DontScroll/issues"
+  },
+  "homepage": "https://github.com/powerbuoy/DontScroll#readme"
+}
