@@ -7,7 +7,7 @@
 	else {
 		factory(jQuery);
 	}
-}(function ($) {
+})(function ($) {
 	'use strict';
 
 	$.fn.dontScroll = function () {
