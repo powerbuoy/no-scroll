@@ -1,21 +1,21 @@
 {
-  "name": "dont-scroll",
+  "name": "no-scroll",
   "version": "1.0.0",
   "description": "Prevents an in page link from scrolling the page but still updates the hash",
-  "main": "dont-scroll.js",
+  "main": "no-scroll.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/powerbuoy/DontScroll.git"
+    "url": "git+https://github.com/powerbuoy/no-scroll.git"
   },
   "author": "Andreas Lagerkvist",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/powerbuoy/DontScroll/issues"
+    "url": "https://github.com/powerbuoy/no-scroll/issues"
   },
-  "homepage": "https://github.com/powerbuoy/DontScroll#readme",
+  "homepage": "https://github.com/powerbuoy/no-scroll#readme",
   "dependencies": {
     "jquery": "^3.1.0"
   }
